@@ -46,17 +46,6 @@
   <img src="https://img.shields.io/badge/MySQL-020617?style=for-the-badge&logo=mysql&logoColor=ef4444" />
 </p>
 
----
-
-## 📂 Featured Projects
-| Project | Description |
-|-------|-------------|
-| **MiniAnniRun** | Competitive Annihilation-style minigame |
-| **ArcplayCore** | Core API for multi-server infrastructure |
-| **AuthProtect** | Auth & security plugin for proxy servers |
-| **Practice System** | PvP practice with custom knockback |
-
----
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -79,9 +68,6 @@
 <p align="center">
   <a href="https://github.com/Zuixik">
     <img src="https://img.shields.io/badge/GitHub-Zuixik-020617?style=for-the-badge&logo=github&logoColor=ef4444" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Discord-zuixik-020617?style=for-the-badge&logo=discord&logoColor=ef4444" />
   </a>
 </p>
 
