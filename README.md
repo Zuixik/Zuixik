@@ -5,7 +5,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:7f1d1d&height=220&section=header&text=Zuixik&fontSize=56&fontColor=ef4444&animation=fadeIn" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=ef4444&center=true&vCenter=true&width=640&lines=Backend+Developer;Minecraft+Plugin+Developer;Game+Infrastructure+Engineer;Java+%7C+Velocity+%7C+Redis;Performance+%26+Scalability+Focused" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1200&color=ef4444&center=true&vCenter=true&width=640&lines=Backend+Developer;Java+%7C+Kotlin;Velocity+%7C+Redis;Performance+%26+Scalability+Focused" />
 </p>
 
 ---
