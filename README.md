@@ -35,6 +35,7 @@
 ### Languages
 <p>
   <img src="https://img.shields.io/badge/Java-020617?style=for-the-badge&logo=openjdk&logoColor=ef4444" />
+  <img src="https://img.shields.io/badge/Kotlin-020617?style=for-the-badge&logo=kotlin&logoColor=ef4444" />
   <img src="https://img.shields.io/badge/TypeScript-020617?style=for-the-badge&logo=typescript&logoColor=ef4444" />
 </p>
 
